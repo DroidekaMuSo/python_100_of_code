@@ -37,3 +37,15 @@ F
 Day 20/food.py,0\f\0fb904272e38b4cbfa3dc4beeae2bc7065430dfe
 D
 Day 20/scoreboard.py,f\5\f51187fde06851fd7c9996d01117d0cf25724ec6
+>
+Day 22/main.py,2\0\207efc9997aae8d7a41ff3b31de986e5ae4592b8
+I
+Day 20 Snake Game/main.py,b\4\b4048d81e12d02f77930677a64a7b558090013a7
+@
+Day 22/paddle.py,6\b\6bbd4c58e7df73c838400c001933887678067ecb
+J
+Day 20 Snake Game/snake.py,c\6\c67a38fd6030a4eb3597b55c9b9bf6cc750bab99
+>
+Day 22/ball.py,1\f\1f212b660e3bf76c4492bfd4b3179ee83d8b1141
+D
+Day 22/scoreboard.py,b\e\beccb8d6d88765f35913b805c08eda06a04aa5b8
