@@ -49,3 +49,13 @@ J
 Day 22/ball.py,1\f\1f212b660e3bf76c4492bfd4b3179ee83d8b1141
 D
 Day 22/scoreboard.py,b\e\beccb8d6d88765f35913b805c08eda06a04aa5b8
+>
+Day 23/mana.py,3\d\3d3d6f5af17c9f58e4dec0c28032588c126f5e17
+@
+Day 23/player.py,0\1\01412b1b70c0a3d40463e21d05d0bd1d7181701c
+D
+Day 23/scoreboard.py,8\a\8a3dc3758b81100386fb427d6afea1bc21b123ff
+E
+Day 23/car_manager.py,b\1\b1d036d3bc05b33ad30544fa20cc02786bf8fe68
+>
+Day 23/main.py,4\d\4df5649f07ad6de175f25902b2711496ee0d19da
