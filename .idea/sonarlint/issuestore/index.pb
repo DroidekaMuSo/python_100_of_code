@@ -39,18 +39,12 @@ D
 Day 20/scoreboard.py,f\5\f51187fde06851fd7c9996d01117d0cf25724ec6
 >
 Day 22/main.py,2\0\207efc9997aae8d7a41ff3b31de986e5ae4592b8
-I
-Day 20 Snake Game/main.py,b\4\b4048d81e12d02f77930677a64a7b558090013a7
 @
 Day 22/paddle.py,6\b\6bbd4c58e7df73c838400c001933887678067ecb
-J
-Day 20 Snake Game/snake.py,c\6\c67a38fd6030a4eb3597b55c9b9bf6cc750bab99
 >
 Day 22/ball.py,1\f\1f212b660e3bf76c4492bfd4b3179ee83d8b1141
 D
 Day 22/scoreboard.py,b\e\beccb8d6d88765f35913b805c08eda06a04aa5b8
->
-Day 23/mana.py,3\d\3d3d6f5af17c9f58e4dec0c28032588c126f5e17
 @
 Day 23/player.py,0\1\01412b1b70c0a3d40463e21d05d0bd1d7181701c
 D
@@ -59,3 +53,27 @@ E
 Day 23/car_manager.py,b\1\b1d036d3bc05b33ad30544fa20cc02786bf8fe68
 >
 Day 23/main.py,4\d\4df5649f07ad6de175f25902b2711496ee0d19da
+H
+Day 20/repeating/main.py,7\d\7dc73218a5157596bdaf119ff1507ad06ab0547b
+I
+Day 20/repeating/snake.py,3\5\350eeff024963a4b403f4b53a89680844229e469
+H
+Day 20/repeating/food.py,b\f\bfb6ef7f1ae9080cab241810b099002aac22cd2f
+N
+Day 20/repeating/scoreboard.py,6\b\6b5603cd3da8e601c7b257882268b34432e04d66
+H
+Day 22/repeating/main.py,8\9\89277ce46d3565e2b2cd401a06250371cd463e31
+J
+Day 22/repeating/paddle.py,3\4\3472a33ce0825f88438468b6d833ec481a6bc5e4
+H
+Day 22/repeating/ball.py,9\8\98f8cf30a7385e5cdd0c9b139ff6a2a72f6d2238
+N
+Day 22/repeating/scoreboard.py,4\e\4e6764aeb6e8f490dfca16e5a311300d8f9681e5
+J
+Day 23/repeating/player.py,b\6\b693904a3d04f4993268057da7bffcf7b3cb9c22
+N
+Day 23/repeating/scoreboard.py,d\f\df457071ab4671725ee2aa19ea29f3e3c6fafda1
+O
+Day 23/repeating/car_manager.py,e\b\ebb176c90d03c52a6325fa4a078b22dcb178c2a4
+H
+Day 23/repeating/main.py,e\2\e2588813ff066e538df2af165841b086af0433ef
