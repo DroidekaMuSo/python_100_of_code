@@ -77,3 +77,13 @@ O
 Day 23/repeating/car_manager.py,e\b\ebb176c90d03c52a6325fa4a078b22dcb178c2a4
 H
 Day 23/repeating/main.py,e\2\e2588813ff066e538df2af165841b086af0433ef
+>
+Day 24/asda.py,c\3\c304976e750a2c58363c2a328d107e3d602a0acc
+>
+Day 24/main.py,9\d\9de6720229c36e9a61c23522408b915f13e41a2e
+B
+Day 24/my_file.txt,d\8\d89def0fcfad3c58700c269b566acf1f2d20f74e
+F
+Day 24/my_new_file.txt,9\c\9cf91eefd8b22960e92342f8c49ae21b56088883
+?
+Day 20/data.txt,5\a\5ac03fcfab6bbea1ca02999f3f94fb2805ea103e
