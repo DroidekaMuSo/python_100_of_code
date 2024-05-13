@@ -10,6 +10,7 @@ label = tkinter.Label(text="I'm a label", font=("Arial", 24, "bold"))
 label.pack(side='left')
 
 tim = turtle.Turtle()
-tim.write()
+tim.hideturtle()
+
 
 window.mainloop()
