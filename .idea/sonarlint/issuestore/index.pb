@@ -37,3 +37,5 @@ A
 Day 27/project.py,8\a\8afd67f561c9969222c0f650136d158d2185e5b4
 G
 Day 27/final_project.py,3\7\379b5c0ad97edff010f184e04b470908e1443574
+>
+Day 28/main.py,7\d\7d3a52547eddedccadda946b2efbe06392fe4234
