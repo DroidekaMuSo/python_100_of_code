@@ -29,3 +29,11 @@ H
 Day 25/US States/main.py,c\3\c378afa42dd39b944f0b33150b4c187cac11e48a
 N
 Day 25/US States/50_states.csv,3\7\3778bfab90ec8c35d0b5160d59c8ddc187ea2692
+D
+Day 27/playground.py,f\0\f02dce52342b6ce565e9ead7bac0eb9a5c702f70
+>
+Day 27/main.py,0\5\05a40c00dfb3a3d27273a9e6d294046a35fef2a8
+A
+Day 27/project.py,8\a\8afd67f561c9969222c0f650136d158d2185e5b4
+G
+Day 27/final_project.py,3\7\379b5c0ad97edff010f184e04b470908e1443574
