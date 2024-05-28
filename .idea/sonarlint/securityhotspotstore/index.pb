@@ -15,10 +15,6 @@ G
 Day 25/weather_data.csv,a\5\a5f94fedc3ddb38880cc003e070aae97e2a3f775
 >
 Day 25/main.py,5\5\55da3c8d30ea4059d4a0f95fa9339d2ca54c12dd
-B
-Day 25/squirrel.py,a\9\a9b725d720ff7012a67499ee925d723a187387ae
-u
-EDay 25/2018_Central_Park_Squirrel_Census_-_Squirrel_Data_20240508.csv,2\5\25f689eff96a4364cbf8a484aaf0ae66b3734720
 K
 Day 25/squirrel/squirrel.py,4\e\4e7ba12b48f88db03f5afe0541e05eecc5815cd3
 ~
@@ -39,3 +35,17 @@ G
 Day 27/final_project.py,3\7\379b5c0ad97edff010f184e04b470908e1443574
 >
 Day 28/main.py,7\d\7d3a52547eddedccadda946b2efbe06392fe4234
+>
+Day 29/main.py,0\7\079972f82b3d9a60776ce596e60c56d9976f4a9f
+>
+Day 26/main.py,a\2\a2f77b17abad58562664a0e702e5dc69e4db7af1
+>
+Day 20/main.py,e\1\e181c7a2d51d3a4f9f1254f7e4efe73c7d4d971a
+>
+Day 22/main.py,2\0\207efc9997aae8d7a41ff3b31de986e5ae4592b8
+>
+Day 23/main.py,4\d\4df5649f07ad6de175f25902b2711496ee0d19da
+?
+Day 29/data.txt,f\4\f48cdda0629651ee5dea3563f39e5062d981c536
+C
+Day 29/main_day5.py,6\1\6188d5b566d1d70b690f689ef3a161c1a04ba20c
