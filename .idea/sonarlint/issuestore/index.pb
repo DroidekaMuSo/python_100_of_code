@@ -49,3 +49,20 @@ G
 Day 29/data.txt,f\4\f48cdda0629651ee5dea3563f39e5062d981c536
 C
 Day 29/main_day5.py,6\1\6188d5b566d1d70b690f689ef3a161c1a04ba20c
+>
+Day 30/main.py,0\7\07aef7fd8d5a23307644af18261798ac9a9647d4
+A
+Day 30/a_file.txt,5\1\511143d230bca64c82ffa975fe95c91e98b06264
+7
+.replit,e\2\e255e037e87583c6886a88ab92aee98483135150
+:
+
+replit.nix,8\0\80d48ddbc8e12b5af5364aab1ecdd8ed46a3dc83
+K
+Day 30/main_nato_project.py,9\3\931e350edfb23db7add1ae149ebea8100d48ecd8
+M
+Day 30/final_project/data.txt,f\7\f7272c9091acbba5c32d529c0b6ad9eb25bd5a2f
+L
+Day 30/final_project/main.py,e\2\e2beb017e84a39f4d2dc0279006c5cad0184374e
+N
+Day 30/final_project/data.json,8\b\8be01c463214d46585df819dd10f44e473aa1fe1
