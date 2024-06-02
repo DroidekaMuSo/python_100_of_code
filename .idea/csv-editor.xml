@@ -3,6 +3,20 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
+        <entry key="C:\Users\diego\Downloads\birthday-wisher-extrahard-start\birthdays.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Day 25\squirrel\2018_Central_Park_Squirrel_Census_-_Squirrel_Data_20240508.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\Day 31\data\es_en.csv">
           <value>
             <Attribute>
