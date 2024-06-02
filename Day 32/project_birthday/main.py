@@ -6,7 +6,7 @@ import random
 import smtplib
 
 GOOGLE_EMAIL = "diegomuso98@gmail.com"
-GOOGLE_PASSWORD = "aght hinb txna mzhp"
+GOOGLE_PASSWORD = ""
 
 birthdays = pandas.read_csv("birthdays.csv").to_dict(orient="records")
 current_month = dt.datetime.now().month

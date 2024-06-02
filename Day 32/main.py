@@ -1,7 +1,7 @@
 #
 #
 GOOGLE_EMAIL = "diegomuso98@gmail.com"
-GOOGLE_PASSWORD = "aght hinb txna mzhp"
+GOOGLE_PASSWORD = ""
 #
 
 #
