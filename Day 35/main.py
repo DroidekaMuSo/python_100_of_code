@@ -1,8 +1,9 @@
 import requests
 from twilio.rest import Client
+import os
 
-account_sid = 'ACb93efbf3772a3c76c8d63b5b9ac16dd2'
-auth_token = 'c5a743f22b2ee2cd8fed7958ff2beae7'
+account_sid = os.environ.get("TWILIO_ACCOUNT_SID")
+auth_token = os.environ.get("TWILIO_AUTH_TOKEN")
 client = Client(account_sid, auth_token)
 
 weather_parameters = {
