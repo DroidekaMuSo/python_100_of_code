@@ -9,7 +9,7 @@ client = Client(account_sid, auth_token)
 weather_parameters = {
     "lat": 33.991879,
     "lon": -96.387253,
-    "appid": "3878ab2a46bcdec86e5802f39adc19b1",
+    "appid": "",
     "cnt": 12
 }
 
