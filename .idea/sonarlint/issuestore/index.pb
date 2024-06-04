@@ -6,8 +6,6 @@
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 7
 LICENSE,0\3\0398ccd0f49298b10a3d76a47800d2ebecd49859
-H
-Day 31/english_words.csv,a\0\a06f300e5197d294691e4c8d94c22f3bd17ee6c3
 >
 Day 31/main.py,d\d\dd16a0db15f5a44e09e793e12dbce8156087d013
 >
@@ -22,8 +20,6 @@ E
 Day 29/main.py,0\7\079972f82b3d9a60776ce596e60c56d9976f4a9f
 >
 Day 28/main.py,7\d\7d3a52547eddedccadda946b2efbe06392fe4234
-I
-Day 31/words_to_learn.csv,1\c\1c4ab8577a7c3ff481ee38bd72483a7f1a199779
 N
 Day 31/data/words_to_learn.csv,c\5\c5c3868861fc92335a52a61f8ea40532d0358a47
 >
@@ -58,7 +54,21 @@ K
 Day 33/main.py,f\5\f5399401b78138d9dc48234e6bdced74104ea12a
 K
 Day 33/Kanye_quotes/main.py,2\0\20f84edbdb6a3859120ddb00687706e97c217d47
-E
-Day 33/sunset/main.py,a\8\a8fd5cdf82c2d1d24365bb033c3b3f9ebf96d4a0
 K
 Day 33/kanye_quotes/main.py,a\9\a93bc045c8b527baa82a343b52a559417257b70d
+>
+Day 34/main.py,5\0\5055e28d30b49d35f48cb9db20f7350d657392a6
+>
+Day 34/data.py,e\f\ef85a449374b36da2d1c28c5c9c3a5e15a0e69de
+D
+Day 34/quiz_brain.py,a\6\a64b238748fbdfc6c667e6c1bc4d6d671b402910
+H
+Day 34/question_model.py,2\5\25cbef3176f5ff16e0b62c39437a6859c262c53d
+<
+Day 34/ui.py,7\d\7d5f600c98fd8f75e91ba92bbb8c0a453aa09e27
+>
+Day 35/main.py,b\9\b9abea2f234e78679157aa26a30e42cc504ba463
+F
+Day 36/.project_config,b\3\b34de50ab785f6e082731ea12b084724c61a3553
+>
+Day 36/main.py,7\2\725f32c48b8d9a550b7e570ebc56b3c78879453e
