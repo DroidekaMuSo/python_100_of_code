@@ -26,8 +26,6 @@ N
 Day 32/main.py,9\b\9b85b06b05a67107c00af4729334392b9fde3e59
 A
 Day 32/quotes.txt,3\0\304957f507b54952949fcbdf54a1d95df020c54f
-4
-.env,3\c\3c84dcdc6bbe3d7817c49dcdc327b926fea1808a
 O
 Day 32/project_birthday/main.py,3\0\3049b916e31022f1db43ca7bd8ecd805c64abef6
 e
@@ -68,7 +66,7 @@ H
 Day 34/ui.py,7\d\7d5f600c98fd8f75e91ba92bbb8c0a453aa09e27
 >
 Day 35/main.py,b\9\b9abea2f234e78679157aa26a30e42cc504ba463
-F
-Day 36/.project_config,b\3\b34de50ab785f6e082731ea12b084724c61a3553
 >
 Day 36/main.py,7\2\725f32c48b8d9a550b7e570ebc56b3c78879453e
+>
+Day 37/main.py,4\8\4841e1163b023af291ceff9b2a5724175706e9db
