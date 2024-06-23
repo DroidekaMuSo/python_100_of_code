@@ -82,3 +82,15 @@ G
 Day 39/main.py,0\a\0a9acc31357d8c7820a52d571999096aea8b2366
 N
 Day 39/notification_manager.py,f\6\f6e3deaf53d660fe6a7cae9abe100b226f30cbb6
+>
+Day 40/main.py,0\f\0f6ead15fde2c602c63c198eb0ed6b237370d0ec
+;
+Day 40/.env,2\d\2debd23546fa24d99fcd1d24d2f94e5542331ee9
+F
+Day 40/data_manager.py,3\7\3755bf7796b28faae9426988dbf2d49870cfcec5
+E
+Day 40/flight_data.py,d\f\df1913064bdf1d071a984d3839ab95956b181e67
+G
+Day 40/flight_search.py,4\4\4487deac5fbdbd9f38dd29ccd2494b4ad216b8bc
+N
+Day 40/notification_manager.py,e\7\e73c094ee127f281be14b5307a5f60783179db3a
