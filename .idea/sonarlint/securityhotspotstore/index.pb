@@ -82,7 +82,3 @@ G
 Day 39/main.py,0\a\0a9acc31357d8c7820a52d571999096aea8b2366
 N
 Day 39/notification_manager.py,f\6\f6e3deaf53d660fe6a7cae9abe100b226f30cbb6
-;
-Day 39/.env,3\a\3a13befc187ce5a05c820c7c9351a9e29ccc3da2
->
-Day 40/main.py,0\f\0f6ead15fde2c602c63c198eb0ed6b237370d0ec
