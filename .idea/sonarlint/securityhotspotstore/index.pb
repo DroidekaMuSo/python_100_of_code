@@ -108,3 +108,9 @@ c
 3Day 46 - Create a Spotify Playlist/songs_manager.py,0\8\0865fce044bffe7bc5445526429ae1f61504768c
 \
 ,Day 46 - Create a Spotify Playlist/token.txt,b\9\b92ebbaeba7d814cdeccc7fa804524ae5fe09e06
+U
+%Day 47 - Amazon Price Tracker/main.py,5\b\5b8153c74ea296d2078e5e7fd9a1bd1501a648e7
+R
+"Day 47 - Amazon Price Tracker/.env,f\7\f7ed12bd90a89b7175a57b11cd6dc0bd18776e81
+G
+Day 40/requirements.txt,a\3\a39e042e6b7c0e5609b959eb56589b6e7696f290
