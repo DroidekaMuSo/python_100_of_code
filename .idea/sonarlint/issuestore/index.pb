@@ -94,3 +94,17 @@ G
 Day 40/flight_search.py,4\4\4487deac5fbdbd9f38dd29ccd2494b4ad216b8bc
 N
 Day 40/notification_manager.py,e\7\e73c094ee127f281be14b5307a5f60783179db3a
+>
+Day 45/main.py,b\7\b729b48292e05066a627a203b3649bc5f1aaa225
+E
+Day 45/theory/main.py,9\3\93f9db6d6f93fc4f8273fdfca9ee3301e6d439eb
+A
+Day 45/movies.txt,d\9\d9463172ff2448cace2d50d49ba91531d934cc7b
+Z
+*Day 46 - Create a Spotify Playlist/main.py,d\2\d22bd6f1f1f06d77b2b3d7d1a85bf5b7ac7ec5b6
+W
+'Day 46 - Create a Spotify Playlist/.env,d\e\deea6c444036b1f575b52b28103b425b39d9e45b
+c
+3Day 46 - Create a Spotify Playlist/songs_manager.py,0\8\0865fce044bffe7bc5445526429ae1f61504768c
+\
+,Day 46 - Create a Spotify Playlist/token.txt,b\9\b92ebbaeba7d814cdeccc7fa804524ae5fe09e06

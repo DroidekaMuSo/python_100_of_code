@@ -1637,7 +1637,7 @@ wash,lavar
 program,programa
 heat,calor
 usual,habitual
-ticket,boleto
+ticket.py,boleto
 stolen,robado
 prefer,preferir
 aware,consciente
