@@ -114,3 +114,11 @@ R
 "Day 47 - Amazon Price Tracker/.env,f\7\f7ed12bd90a89b7175a57b11cd6dc0bd18776e81
 G
 Day 40/requirements.txt,a\3\a39e042e6b7c0e5609b959eb56589b6e7696f290
+I
+Day 50 - Selenium/main.py,9\8\9831f893fd36f746162fbdc0a95f88a7c2ad6b76
+S
+#Day 50 - Selenium/practice1/main.py,5\8\58855e047aa2a34e57a62119c8e783557a366403
+T
+$Day 50 - Selenium/practice 2/main.py,5\8\5886e9e650ab697f799e0635d9de040b8ec98d2a
+M
+Day 50 - Selenium/coockies.py,2\f\2f6564b52ba7745e7af1721074bd2baa78a3c5ea
