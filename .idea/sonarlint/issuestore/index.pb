@@ -114,11 +114,15 @@ R
 "Day 47 - Amazon Price Tracker/.env,f\7\f7ed12bd90a89b7175a57b11cd6dc0bd18776e81
 G
 Day 40/requirements.txt,a\3\a39e042e6b7c0e5609b959eb56589b6e7696f290
+P
+ Day 49 - Job applier bot/main.py,d\2\d271d7a904d6050387a4b12ba713bb0421b5cb08
 I
-Day 50 - Selenium/main.py,9\8\9831f893fd36f746162fbdc0a95f88a7c2ad6b76
-S
-#Day 50 - Selenium/practice1/main.py,5\8\58855e047aa2a34e57a62119c8e783557a366403
-T
-$Day 50 - Selenium/practice 2/main.py,5\8\5886e9e650ab697f799e0635d9de040b8ec98d2a
+Day 48 - Selenium/main.py,a\9\a92fbab678b72aa428ed97bb67e4158acbd3228d
 M
-Day 50 - Selenium/coockies.py,2\f\2f6564b52ba7745e7af1721074bd2baa78a3c5ea
+Day 49 - Job applier bot/.env,a\c\acd51c7b80fab5ba138709d08404bec062cdb903
+M
+Day 48 - Selenium/coockies.py,9\8\98685cb117f5293072ce3c508db74ae9f7785d7d
+L
+Day 50 - Auto Tinder/MAIN.py,9\7\9714c63f57376d5ee59e8f5fd0242bf32b7ee96b
+L
+Day 50 - Auto Tinder/main.py,3\d\3df5cc9f68a495b30f361d0dc3b84ee9acc99a27
