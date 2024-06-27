@@ -126,3 +126,5 @@ L
 Day 50 - Auto Tinder/MAIN.py,9\7\9714c63f57376d5ee59e8f5fd0242bf32b7ee96b
 L
 Day 50 - Auto Tinder/main.py,3\d\3df5cc9f68a495b30f361d0dc3b84ee9acc99a27
+I
+Day 50 - Auto Tinder/.env,d\a\da02772a73673f7705be764e01b02875a23d8757

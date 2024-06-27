@@ -8,6 +8,8 @@ import os
 dotenv.load_dotenv()
 
 LINKEDIN_URL = ("https://tinder.com/")
+FACEBOOK_EMAIL = os.environ.get("FACEBOOK_EMAIL")
+FACEBOOK_PASSWORD = os.environ.get("FACEBOOK_PASSWORD")
 
 chrome_options = webdriver.ChromeOptions()
 chrome_options.add_experimental_option("detach", True)
@@ -37,10 +39,10 @@ fb_popup_window = driver.window_handles[1]
 driver.switch_to.window(fb_popup_window)
 
 email_input = driver.find_element(By.NAME, "email")
-email_input.send_keys("diegomunozsolis@hotmail.com")
+email_input.send_keys(FACEBOOK_EMAIL)
 
 password_input = driver.find_element(By.NAME, "pass")
-password_input.send_keys("toribio")
+password_input.send_keys(FACEBOOK_PASSWORD)
 
 fb_log_in_button = driver.find_element(By.NAME, "login")
 fb_log_in_button.click()
