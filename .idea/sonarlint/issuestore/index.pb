@@ -128,7 +128,9 @@ L
 Day 50 - Auto Tinder/main.py,3\d\3df5cc9f68a495b30f361d0dc3b84ee9acc99a27
 I
 Day 50 - Auto Tinder/.env,d\a\da02772a73673f7705be764e01b02875a23d8757
->
-Day 51/main.py,5\8\582ac5877179ec88dc83af5bcf7aabd86f016e08
-;
-Day 51/.env,d\1\d1ce200504879416340a8c071de6a0455831f1d1
+L
+Day 51 - Twitter bot/main.py,f\f\ffaf1c23c7840a2a39ba90f28dd4441563fa1e48
+T
+$Day 52 - Instagram Follower bot/.env,0\3\035c1b6c4fab57303879fa4910fcbb97a846eb69
+W
+'Day 52 - Instagram Follower bot/main.py,1\0\10649786a210a4419e4f97065934254b0d799a9a
