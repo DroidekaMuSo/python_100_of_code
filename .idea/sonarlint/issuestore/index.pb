@@ -158,3 +158,25 @@ a
 1Day 56 - Rendering HTML/static/assets/css/ie8.css,e\2\e242e86d3ce3cf65b9e9949a05e56004ec5e3c89
 a
 1Day 56 - Rendering HTML/static/assets/css/ie9.css,a\7\a78ae89c339009178a61d446deee6d9e363fae02
+9
+	server.py,3\7\37f78d9e69dff05b443a39c32175987bb0cbdccd
+N
+Day 57 - Templating/index.html,c\2\c22162ef68ec7df0bb7bb86bd8e471d02b30bec4
+X
+(Day 57 - Templating/templates/index.html,c\5\c5dc6304bc4ae13911ec272be33cbac691dfc3d4
+M
+Day 57 - Templating/server.py,f\6\f62b8fba8a9125a0bbe389636805529017d7fe5e
+X
+(Day 57 - Templating/templates/guess.html,0\f\0fc7cb5eca4a7b022bf1639d1409783be9d9a11c
+W
+'Day 57 - Templating/templates/blog.html,7\b\7bea3b74e12840c47f66e838e3ab3aed363fddd6
+S
+#Day 57 - Templating/project/main.py,c\8\c8aa2f1a6e64c0518f893fc493dae9461c175995
+S
+#Day 57 - Templating/project/post.py,f\0\f0a03260fd9ba9e514de2e870f3e17e87b330406
+`
+0Day 57 - Templating/project/templates/index.html,b\f\bfdc3dc241996a94b0b244b7f593fc2d73ea81e7
+_
+/Day 57 - Templating/project/templates/post.html,f\b\fb61093902243e24e359dc4ac8b42cfa0c180f5e
+a
+1Day 57 - Templating/project/static/css/styles.css,7\9\7989b985c75d08b5519648daccf3ddf6a3b5bcb8
