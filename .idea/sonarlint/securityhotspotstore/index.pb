@@ -144,3 +144,17 @@ U
 %Day 55 - Intermediate Flask/server.py,2\f\2f13190dcdb5cab10c6f285f5c3d07030740c3d1
 U
 %Day 55 - Intermediate Flask/main.html,7\6\767c0e8e0c657f0a9d26cd23a77ded0a1f55773b
+Q
+!Day 56 - Rendering HTML/server.py,8\d\8d3e579017e20cd0aab71b062c9f8345da5cffed
+Q
+!Day 56 - Rendering HTML/main.html,2\3\23a14496db9f043ec49c1abc3be87e31e2a6e530
+[
++Day 56 - Rendering HTML/templates/main.html,4\3\436407eb6d36917a036342b784b9d6f4d61319f6
+X
+(Day 56 - Rendering HTML/static/style.css,8\2\8227dd071b9959314c6f5cf6f5e3a7f00d09d99c
+\
+,Day 56 - Rendering HTML/templates/index.html,6\a\6ae3ab0946439feb6fc795b672c704bc5bc36149
+a
+1Day 56 - Rendering HTML/static/assets/css/ie8.css,e\2\e242e86d3ce3cf65b9e9949a05e56004ec5e3c89
+a
+1Day 56 - Rendering HTML/static/assets/css/ie9.css,a\7\a78ae89c339009178a61d446deee6d9e363fae02
