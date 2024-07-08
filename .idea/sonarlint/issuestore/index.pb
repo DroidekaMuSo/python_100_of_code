@@ -186,3 +186,23 @@ a
 1Day 58 - Bootstrap/final_project/css/solution.css,8\b\8b1365dc1321bb518e4c673cd41ddef6543c57b2
 Z
 *Day 58 - Bootstrap/final_project/README.md,8\4\84f9ebcbadb4059d0bd556cb100405cc0d1a232e
+Q
+!Day 59 - Blog Capstone/index.html,8\8\88871f90b07edf883fef0e018e16b128b591de57
+\
+,Day 59 - Blog Capstone/templates/header.html,7\c\7cce45a21668ce11d6411697e87cfa305fd05f86
+\
+,Day 59 - Blog Capstone/templates/footer.html,4\d\4d153b679fbd0ac35002e5080cd6c55433d39cd7
+N
+Day 59 - Blog Capstone/main.py,1\1\11072fe57ec91eafe7cbaac7f28519db131c1bb7
+[
++Day 59 - Blog Capstone/static/js/scripts.js,8\7\87b51059f6f6c3e7838528e7a91c53cfaefb264e
+[
++Day 59 - Blog Capstone/templates/index.html,9\e\9e65b6b7011f9659786d72d3b732298b63dd5895
+[
++Day 59 - Blog Capstone/templates/about.html,8\6\86e57c2c0c45bb4fbc4b6d29a8cf2cb43078dc6b
+]
+-Day 59 - Blog Capstone/templates/contact.html,c\1\c1306589476fc5a909517d06f2ef16c354b1cd1c
+\
+,Day 59 - Blog Capstone/static/css/styles.css,9\f\9ff428ceb1feb69c0b0ad54caf3b2a55d83010a6
+Z
+*Day 59 - Blog Capstone/templates/post.html,a\e\ae040962fdaad99b0fa7d14f9491045d096576a6
