@@ -142,26 +142,16 @@ V
 &Day 54 - Introduction to Flask/main.py,0\4\040a99947220750272b93de1de1a2ab29a8503b1
 U
 %Day 55 - Intermediate Flask/server.py,2\f\2f13190dcdb5cab10c6f285f5c3d07030740c3d1
-U
-%Day 55 - Intermediate Flask/main.html,7\6\767c0e8e0c657f0a9d26cd23a77ded0a1f55773b
 Q
 !Day 56 - Rendering HTML/server.py,8\d\8d3e579017e20cd0aab71b062c9f8345da5cffed
-Q
-!Day 56 - Rendering HTML/main.html,2\3\23a14496db9f043ec49c1abc3be87e31e2a6e530
 [
 +Day 56 - Rendering HTML/templates/main.html,4\3\436407eb6d36917a036342b784b9d6f4d61319f6
-X
-(Day 56 - Rendering HTML/static/style.css,8\2\8227dd071b9959314c6f5cf6f5e3a7f00d09d99c
 \
 ,Day 56 - Rendering HTML/templates/index.html,6\a\6ae3ab0946439feb6fc795b672c704bc5bc36149
 a
 1Day 56 - Rendering HTML/static/assets/css/ie8.css,e\2\e242e86d3ce3cf65b9e9949a05e56004ec5e3c89
 a
 1Day 56 - Rendering HTML/static/assets/css/ie9.css,a\7\a78ae89c339009178a61d446deee6d9e363fae02
-9
-	server.py,3\7\37f78d9e69dff05b443a39c32175987bb0cbdccd
-N
-Day 57 - Templating/index.html,c\2\c22162ef68ec7df0bb7bb86bd8e471d02b30bec4
 X
 (Day 57 - Templating/templates/index.html,c\5\c5dc6304bc4ae13911ec272be33cbac691dfc3d4
 M
@@ -180,3 +170,19 @@ _
 /Day 57 - Templating/project/templates/post.html,f\b\fb61093902243e24e359dc4ac8b42cfa0c180f5e
 a
 1Day 57 - Templating/project/static/css/styles.css,7\9\7989b985c75d08b5519648daccf3ddf6a3b5bcb8
+M
+Day 58 - Bootstrap/index.html,6\3\63e121b249a31bf65335f1a59ebd411c97a2b74c
+V
+&Day 58 - Bootstrap/project2/index.html,c\8\c805384276d3238414a95f4c0313134b7e9ab51f
+\
+,Day 58 - Bootstrap/project2/website-text.txt,a\5\a502b62fb1ede4b877fda0fa5e68ed2f7b3d7302
+[
++Day 58 - Bootstrap/final_project/index.html,b\2\b266217ebabc793a34a35c781fd1762c3f5f3335
+^
+.Day 58 - Bootstrap/final_project/css/style.css,d\3\d36e9fc9087aa4040b556c70deda48d8e1f625f4
+^
+.Day 58 - Bootstrap/final_project/solution.html,e\c\ec26a42cefa68f3c21c5eb92323529ef4ff32950
+a
+1Day 58 - Bootstrap/final_project/css/solution.css,8\b\8b1365dc1321bb518e4c673cd41ddef6543c57b2
+Z
+*Day 58 - Bootstrap/final_project/README.md,8\4\84f9ebcbadb4059d0bd556cb100405cc0d1a232e
