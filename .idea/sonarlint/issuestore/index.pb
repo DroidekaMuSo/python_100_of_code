@@ -170,8 +170,6 @@ _
 /Day 57 - Templating/project/templates/post.html,f\b\fb61093902243e24e359dc4ac8b42cfa0c180f5e
 a
 1Day 57 - Templating/project/static/css/styles.css,7\9\7989b985c75d08b5519648daccf3ddf6a3b5bcb8
-M
-Day 58 - Bootstrap/index.html,6\3\63e121b249a31bf65335f1a59ebd411c97a2b74c
 V
 &Day 58 - Bootstrap/project2/index.html,c\8\c805384276d3238414a95f4c0313134b7e9ab51f
 \
@@ -186,8 +184,6 @@ a
 1Day 58 - Bootstrap/final_project/css/solution.css,8\b\8b1365dc1321bb518e4c673cd41ddef6543c57b2
 Z
 *Day 58 - Bootstrap/final_project/README.md,8\4\84f9ebcbadb4059d0bd556cb100405cc0d1a232e
-Q
-!Day 59 - Blog Capstone/index.html,8\8\88871f90b07edf883fef0e018e16b128b591de57
 \
 ,Day 59 - Blog Capstone/templates/header.html,7\c\7cce45a21668ce11d6411697e87cfa305fd05f86
 \
@@ -206,10 +202,6 @@ N
 ,Day 59 - Blog Capstone/static/css/styles.css,9\f\9ff428ceb1feb69c0b0ad54caf3b2a55d83010a6
 Z
 *Day 59 - Blog Capstone/templates/post.html,a\e\ae040962fdaad99b0fa7d14f9491045d096576a6
-X
-(Day 60 - POST request with Flask/main.py,4\2\4287185618a820a2f60ba70ed4f3ec83de936d22
-e
-5Day 60 - POST request with Flask/templates/index.html,8\0\80951345d6c5fd5e45214e0845bb54f2c7d9b71c
 a
 1Day 60 - POST request with Flask/practice/main.py,9\a\9aa92a8431550a205de896781cea009fc9143777
 f
@@ -220,3 +212,53 @@ c
 3Day 60 - POST request with Flask/final_project/.env,1\b\1b965bfcfca59f01e5b39291c14913a562f0ce13
 o
 ?Day 60 - POST request with Flask/final_project/requirements.txt,b\d\bd4376f30d3fec47d617c09e021a44ce6388517e
+Z
+*Day 61 - Advanced forms with Flask/main.py,a\0\a04b98ce58c89769c3b159be591327cdddec5c58
+g
+7Day 61 - Advanced forms with Flask/templates/index.html,f\e\fe2c99ff6025a3c222aab83687fead4a34883089
+g
+7Day 61 - Advanced forms with Flask/templates/login.html,3\7\37e84e40ca667f071c5cb7b56e4d3fa74ed271fc
+c
+3Day 61 - Advanced forms with Flask/requirements.txt,e\8\e89b3313692c45a0ee70c97f6d44809a781e7220
+Z
+*Day 61 - Advanced forms with Flask/form.py,8\0\805e05fd0c3c69f45a811579f7dfc254c17164d6
+h
+8Day 61 - Advanced forms with Flask/templates/denied.html,d\6\d611a30170f470b223abd055138026c04b91754e
+i
+9Day 61 - Advanced forms with Flask/templates/success.html,8\f\8f314a473a942aa21d811e9e405cf2a452aecdf7
+f
+6Day 61 - Advanced forms with Flask/templates/base.html,1\6\16ca0cbfa379d3c2ef576b3023c4449e772d935d
+^
+.Day 62 - Coffe & Wifi Project/requirements.txt,d\a\dae9510d2f8a4b7314446245faa33cc8704af2a6
+U
+%Day 62 - Coffe & Wifi Project/main.py,8\3\83e7a4ddc4676e48f74179f1fb5691c21d27992c
+b
+2Day 62 - Coffe & Wifi Project/templates/index.html,6\3\63acdaa45c726f382a2fc820f6013d131a3281e1
+a
+1Day 62 - Coffe & Wifi Project/templates/base.html,1\6\16ea8306845bde842aecbc8825becb0aec18ee7b
+c
+3Day 62 - Coffe & Wifi Project/static/css/styles.css,f\f\ff374ef47e2be44f10ff4e0725c478c8e122f905
+`
+0Day 62 - Coffe & Wifi Project/templates/add.html,a\2\a2db1e4361a1c8aa4a98b0b8fd743a7ac46e3925
+[
++Day 62 - Coffe & Wifi Project/cafe-data.csv,c\2\c25eecf25ebe80379152457e544c80e9b5863653
+Z
+*Day 62 - Coffe & Wifi Project/cafe_form.py,c\c\cc80023956764ed6ec9bcdc017d4458265d1c662
+b
+2Day 62 - Coffe & Wifi Project/templates/cafes.html,c\6\c612d79acca2a7e3f21d28f191c9ca38df75c25f
+n
+>Day 63 - Databases with SQLite and SQLAlchemy/requirements.txt,d\9\d95e6e53679f47a8b4ad1d4b0b1dad9026dd27f0
+e
+5Day 63 - Databases with SQLite and SQLAlchemy/main.py,6\0\600a23d6aa28c5b382268e4a1fd4534f5bd67536
+r
+BDay 63 - Databases with SQLite and SQLAlchemy/templates/index.html,2\1\215f7ba85b994bb603090ed21170f482ad881f27
+p
+@Day 63 - Databases with SQLite and SQLAlchemy/templates/add.html,c\2\c21ab67ef19a1697e52c76b84e953538b6acacac
+n
+>Day 63 - Databases with SQLite and SQLAlchemy/practice/main.py,0\c\0c478bc27b9e32af332c1b70247de9c0a20ce220
+{
+KDay 63 - Databases with SQLite and SQLAlchemy/practice/books-collections.db,e\d\eda7a51cd94b1f98aeb6297851b59966013d5508
+c
+3Day 63 - Databases with SQLite and SQLAlchemy/db.py,c\f\cfb65ad5a8acf7d108f388fcf126eca513c24fa5
+q
+ADay 63 - Databases with SQLite and SQLAlchemy/templates/edit.html,f\1\f14ed53e62fc0f50107e59719967ed0d4ee57b9b
