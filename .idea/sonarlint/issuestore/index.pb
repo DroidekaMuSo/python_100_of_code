@@ -310,3 +310,17 @@ f
 6Day 68 - Authentication with Flask/templates/base.html,5\7\573e40bb73a438be0a9bab3be5a3f3afd7dc012a
 g
 7Day 68 - Authentication with Flask/templates/index.html,a\a\aadf6ec3ab2c613bf3cbb70da00ec69bb16a3f70
+M
+Day 69 - Adding Users/main.py,8\e\8e804c0872df9ef70aa02414d75e638eb2a5a357
+N
+Day 69 - Adding Users/forms.py,b\c\bc7dc5ae0141eadebaa94c8c991c43892e4dbdd4
+]
+-Day 69 - Adding Users/templates/register.html,8\5\85058d60f049d1c608f0830e99d3667e1c8e05a9
+V
+&Day 69 - Adding Users/requirements.txt,f\6\f6ce4859af9e609831730589a9accff6341d7253
+Z
+*Day 69 - Adding Users/templates/index.html,2\7\27701c64e838914862d3c429ffcfd601f3b7200a
+Z
+*Day 69 - Adding Users/templates/login.html,9\e\9edd3a759850e7d3e6c87b4fd595698a6c801e57
+Y
+)Day 69 - Adding Users/templates/post.html,b\3\b3f2d908dfdb7beccdbd20b0233eb62721145cb7
