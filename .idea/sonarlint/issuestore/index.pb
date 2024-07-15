@@ -268,12 +268,8 @@ c
 3Day 64 - Top 10 Movies website/templates/index.html,3\d\3d50b64e5d385134502126098b4e17d65c7b4f62
 b
 2Day 64 - Top 10 Movies website/templates/edit.html,f\e\fee536c34f2d12503375cfc04fbecf05fd0d6af8
-\
-,Day 64 - Top 10 Movies website/movie_form.py,7\f\7f7fb36325ccf1cb59fec9dbfc2c2093fd784a7d
 a
 1Day 64 - Top 10 Movies website/templates/add.html,f\1\f184e464de9acc6eca30457aca4d19e850913449
-`
-0Day 64 - Top 10 Movies website/add_movie_form.py,3\0\3022215d5580a2afbd5226e0048ba55f3ab44ff6
 ]
 -Day 64 - Top 10 Movies website/movie_forms.py,f\9\f91d25f26804a7878f74c828f2a700a45fd59f7c
 S
@@ -284,3 +280,33 @@ d
 4Day 64 - Top 10 Movies website/templates/select.html,2\d\2dabbd36879bafc732bf73bc73965c4b7bc91bd4
 b
 2Day 64 - Top 10 Movies website/templates/base.html,9\8\985edab0aa0a7d87b7ecf02e27f9cfb660adf0c5
+Y
+)Day 66 - API with RESTful routing/main.py,c\f\cf8d5db677a545e3ff98a41ed5899234ac50935e
+f
+6Day 66 - API with RESTful routing/templates/index.html,4\c\4c9fb55dc38f3c1710314f5f4b424fcfd464ce3f
+V
+&Day 67 - Blog Capstone Project/main.py,7\3\73ace6cb58f0dc8541ddf2cf7c58ca0381908600
+_
+/Day 67 - Blog Capstone Project/requirements.txt,e\0\e0ecd9bc7c312c74a8c3a1e3809a1c4938bdb724
+c
+3Day 67 - Blog Capstone Project/templates/index.html,8\5\85246b62b8ab975b894ee41637d58d793d97215b
+b
+2Day 67 - Blog Capstone Project/templates/post.html,6\3\63bb8320b9b0514ac45d4f3c366e87d8b8add2d3
+g
+7Day 67 - Blog Capstone Project/templates/make-post.html,9\b\9b02637a7a0b32676ab661880aadb6851b5ceef5
+\
+,Day 67 - Blog Capstone Project/blogs_form.py,0\3\0333e87d11d8b3a391fe311075048ee65c1dac14
+Z
+*Day 68 - Authentication with Flask/main.py,d\1\d1251fe4202153c93810b8a6a7dffa3e0d7ead81
+c
+3Day 68 - Authentication with Flask/requirements.txt,e\b\eba54bf4f42b525ec2b3cf0a6d79461d353425ce
+g
+7Day 68 - Authentication with Flask/templates/login.html,1\1\1100ff1fcd4e2c3dbe917b50133eef0b5d13cab5
+j
+:Day 68 - Authentication with Flask/templates/register.html,0\2\0277a1c0868476ffd5526d41dcfe212539441a55
+i
+9Day 68 - Authentication with Flask/templates/secrets.html,4\3\43d6a538e475a40d9151091f5ef8ad0e79e8fe5f
+f
+6Day 68 - Authentication with Flask/templates/base.html,5\7\573e40bb73a438be0a9bab3be5a3f3afd7dc012a
+g
+7Day 68 - Authentication with Flask/templates/index.html,a\a\aadf6ec3ab2c613bf3cbb70da00ec69bb16a3f70
