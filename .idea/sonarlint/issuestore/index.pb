@@ -324,3 +324,13 @@ Z
 *Day 69 - Adding Users/templates/login.html,9\e\9edd3a759850e7d3e6c87b4fd595698a6c801e57
 Y
 )Day 69 - Adding Users/templates/post.html,b\3\b3f2d908dfdb7beccdbd20b0233eb62721145cb7
+c
+3Day 71 - Deploying Web Application/requirements.txt,3\2\3237cbf61da1f7e20b5509cc9e808fab53651a87
+Z
+*Day 71 - Deploying Web Application/main.py,4\1\417a41e3739fd07c466e26ac6f558bc23f69fc1c
+W
+'Day 71 - Deploying Web Application/.env,0\7\0725fa598e9449172dc4ed750e12d5d074dc73c2
+\
+,Day 71 - Deploying Web Application/Procfile.,2\c\2c6aab2165dc9cf1aec943b9a79639965c402823
+[
++Day 71 - Deploying Web Application/Procfile,b\4\b4711efc1d73d9b41cc98b0b84e0c6504f2ca7ea
