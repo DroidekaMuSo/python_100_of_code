@@ -1,16 +1,36 @@
-from selenium import webdriver
-from selenium.webdriver.common.by import By
+print("Welcome to Morse translator, ")
+sentence = input("Please, type what you what to translate into Morse").upper()
 
-chrome_options = webdriver.ChromeOptions()
-chrome_options.add_experimental_option("detach", True)
+morse_code_dict = {
+    'A': '.-', 'B': '-...', 'C': '-.-.', 'D': '-..', 'E': '.', 'F': '..-.',
+    'G': '--.', 'H': '....', 'I': '..', 'J': '.---', 'K': '-.-', 'L': '.-..',
+    'M': '--', 'N': '-.', 'O': '---', 'P': '.--.', 'Q': '--.-', 'R': '.-.',
+    'S': '...', 'T': '-', 'U': '..-', 'V': '...-', 'W': '.--', 'X': '-..-',
+    'Y': '-.--', 'Z': '--..',
+    '0': '-----', '1': '.----', '2': '..---', '3': '...--', '4': '....-',
+    '5': '.....', '6': '-....', '7': '--...', '8': '---..', '9': '----.'
+}
 
-driver = webdriver.Chrome(options=chrome_options)
-driver.get(url="https://en.wikipedia.org/wiki/Morse_code")
 
-letters_elements = driver.find_elements(By.CSS_SELECTOR, value=".jquery-tablesorter td b a")
-symbols_elements = driver.find_elements(By.CSS_SELECTOR, value=".oo-ui-labelElement-label")
+def translator(sentence):
+    sentence_dict = list(sentence)
+    translate = []
 
-letters = [element.text[0] for element in letters_elements]
-symbols = [element.text for element in symbols_elements]
+    for let in sentence_dict:
 
-driver.quit()
+        if let == ' ':
+            translate.append(' ')
+        elif let in morse_code_dict:
+            translate.append(morse_code_dict[let])
+        else:
+            translate.append("?")
+
+    translated_sentence = " ".join(translate)
+
+    print(f"""
+    What you wrote: {sentence}
+    What you got: {translated_sentence}
+    """)
+
+
+translator(sentence)
