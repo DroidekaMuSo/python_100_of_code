@@ -336,5 +336,21 @@ W
 +Day 71 - Deploying Web Application/Procfile,b\4\b4711efc1d73d9b41cc98b0b84e0c6504f2ca7ea
 Q
 !Day 82 - Python Scripting/main.py,6\a\6a6be52879225d5334921a8e801ecdadeb1a9d85
-X
-(Day 82 - Python Scripting/code_morse.txt,d\b\db79a31f0d067a7609b0a4a8fc64e92235dcf74d
+^
+.Day 83 - Portfolio Website/templates/base.html,f\b\fb5e6fae665ce65c4b441aaa72f0bb8789666d3f
+R
+"Day 83 - Portfolio Website/main.py,d\7\d78ee173c8a7b9a9946a42e88ee4c1f426fb493e
+_
+/Day 83 - Portfolio Website/templates/index.html,5\6\564430bec6de74ee28fe07516a7961a4b138213d
+`
+0Day 83 - Portfolio Website/static/css/styles.css,4\2\42566a30d535720657e2105243eb31b36eb417da
+`
+0Day 83 - Portfolio Website/templates/navbar.html,2\3\2396918bd063be3bd96db261b676536c4232b8fb
+d
+4Day 67 - Blog Capstone Project/templates/footer.html,2\8\28796cf9dd93028b49a9ad96e817bc379e74c426
+e
+5Day 67 - Blog Capstone Project/templates/contact.html,6\f\6f04534cb12423b810b6eba5313a888aef6f3f45
+d
+4Day 67 - Blog Capstone Project/templates/header.html,a\b\ab0a86b8b5061139acf67621a7af95957c3f975a
+`
+0Day 83 - Portfolio Website/templates/footer.html,a\a\aa903f5d66adf9a0a21b972a9b2fdbe78760bd39
