@@ -334,3 +334,5 @@ W
 ,Day 71 - Deploying Web Application/Procfile.,2\c\2c6aab2165dc9cf1aec943b9a79639965c402823
 [
 +Day 71 - Deploying Web Application/Procfile,b\4\b4711efc1d73d9b41cc98b0b84e0c6504f2ca7ea
+Q
+!Day 82 - Python Scripting/main.py,6\a\6a6be52879225d5334921a8e801ecdadeb1a9d85
