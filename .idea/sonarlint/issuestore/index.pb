@@ -354,3 +354,27 @@ d
 4Day 67 - Blog Capstone Project/templates/header.html,a\b\ab0a86b8b5061139acf67621a7af95957c3f975a
 `
 0Day 83 - Portfolio Website/templates/footer.html,a\a\aa903f5d66adf9a0a21b972a9b2fdbe78760bd39
+L
+Day 84 - Tic Tac Toe/main.py,5\5\5506a08d4df4645022a5b9c1372ec5e7943bfa02
+>
+Day 16/main.py,6\b\6b5129b0d67d7e45b11ff572ff21224e8e2bda9e
+>
+Day 17/main.py,0\9\09fb790f0d5b43ba93aa58ce1befb3e73a327e08
+>
+Day 15/main.py,e\8\e8d1b643a9cb69fda1bfdbf152f13a45fcda97fb
+>
+Day 18/main.py,9\9\99a66364a36ed004d89cf251286c89afb84e73d2
+>
+Day 19/main.py,9\0\90b1bcb61215807b46a0594cb90d565d7c210782
+>
+Day 20/main.py,e\1\e181c7a2d51d3a4f9f1254f7e4efe73c7d4d971a
+>
+Day 21/main.py,d\6\d654ce12d1996e1f95773a064d2f7bcac61cb9a8
+>
+Day 22/main.py,2\0\207efc9997aae8d7a41ff3b31de986e5ae4592b8
+F
+Day 24/project/main.py,3\a\3a7860def57439451404748a7deeea00b2c61230
+[
++Day 77/Day 77 - Computation with Numpy.json,f\2\f239f61d60bcf95fc102df7f0bf8549ea7f0f30a
+u
+EDay 76/Day 76 - Plotly Charts & Analysing the Android App Store.ipynb,1\2\1283d729cb2bad500bff5a0410f3cce71616867a
