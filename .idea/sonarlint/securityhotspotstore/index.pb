@@ -352,8 +352,6 @@ e
 5Day 67 - Blog Capstone Project/templates/contact.html,6\f\6f04534cb12423b810b6eba5313a888aef6f3f45
 d
 4Day 67 - Blog Capstone Project/templates/header.html,a\b\ab0a86b8b5061139acf67621a7af95957c3f975a
-`
-0Day 83 - Portfolio Website/templates/footer.html,a\a\aa903f5d66adf9a0a21b972a9b2fdbe78760bd39
 L
 Day 84 - Tic Tac Toe/main.py,5\5\5506a08d4df4645022a5b9c1372ec5e7943bfa02
 >
@@ -378,3 +376,11 @@ F
 +Day 77/Day 77 - Computation with Numpy.json,f\2\f239f61d60bcf95fc102df7f0bf8549ea7f0f30a
 u
 EDay 76/Day 76 - Plotly Charts & Analysing the Android App Store.ipynb,1\2\1283d729cb2bad500bff5a0410f3cce71616867a
+F
+Day 16/Project/main.py,1\1\11e2fdf8a0a82643b7df7eec96a9677d80033546
+N
+Day 16/Project/coffee_maker.py,b\4\b46ee3914eb056d9c6e0b46c68e3791b25618c92
+_
+/Day 85 - Image Watermarking Destokp App/main.py,8\a\8abb375cb002ab5e44cd8e266a9233c537b7892f
+M
+Day 86 - Typing Speed/main.py,8\6\863e7ddf2e8d52188bd076b15d73711f62ebccba
